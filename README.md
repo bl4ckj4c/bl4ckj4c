@@ -1,10 +1,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bl4ckj4c&label=Profile%20views&style=flat" alt="bl4ckj4c's GitHub profile views" /></p>
 
-### Hi there, I'm Jacopo Marino
+### Hi there, I am Jacopo Marino
 
-I am a PhD student at Politecnico di Torino, specializing in Computer and Control Engineering.
-- 🔭 My research focuses on cloud computing and the orchestration of multi-cloud environments.
+I am a PhD student at Politecnico di Torino, specializing in Computer and Control Engineering
+- 🔭 My research focuses on cloud computing and the orchestration of multi-cloud environments
 - ✉️ You can contact me at [jacopo.marino@polito.it](mailto:jacopo.marino@polito.it)
+- 🌍 Based in Turin, Italy
 
 <!--
 **bl4ckj4c/bl4ckj4c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
