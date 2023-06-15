@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=bl4ckj4c&label=Profile%20views&style=flat" alt="bl4ckj4c's GitHub profile views" /></p>
+
+### Hi there, I'm Jacopo Marino
+
+I am a PhD student at Politecnico di Torino, specializing in Computer and Control Engineering.
+- 🔭 My research focuses on cloud computing and the orchestration of multi-cloud environments.
+- ✉️ You can contact me at [jacopo.marino@polito.it](mailto:jacopo.marino@polito.it)
 
 <!--
 **bl4ckj4c/bl4ckj4c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="http://www.github.com/bl4ckj4c"><img src="https://github-readme-stats.vercel.app/api?username=bl4ckj4c&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bl4ckj4c's GitHub stats" /></a>
+<a href="https://github.com/bl4ckj4c" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4ckj4c&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
