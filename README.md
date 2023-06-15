@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://www.github.com/bl4ckj4c"><img src="https://github-readme-stats.vercel.app/api?username=bl4ckj4c&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bl4ckj4c's GitHub stats" /></a>
-<a href="https://github.com/bl4ckj4c" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4ckj4c&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Stats](https://github-readme-stats.vercel.app/api?username=bl4ckj4c&count_private=false&show_icons=true&theme=react&hide=stars&hide_border=true&custom_title=Stats) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bl4ckj4c&layout=compact&langs_count=8&theme=react&hide_border=true)
